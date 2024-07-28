@@ -1,4 +1,4 @@
-# Hi, I'm s0zz ♦️
+# s0zz ♦️
 
 I'm a passionate self taught developer with a diverse tech stack and a vision for the future. I'm currently pursuing a **Bachelor of Science Degree**, specializing in **Computer Science**. My journey in tech is driven by a desire to create impactful software and innovate in hardware development.
 
