@@ -84,6 +84,10 @@ I'm a passionate self taught developer with a diverse tech stack and a vision fo
 - **Design**:
   - ![Excalidraw](https://img.shields.io/badge/Excalidraw-1A1A1A?logo=excalidraw&logoColor=ffffff)
   - ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=ffffff)
+  - ![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-2024-0078D4?style=flat&logo=affinity&logoColor=white)
+  - ![Affinity Publisher](https://img.shields.io/badge/Affinity_Publisher-2024-0078D4?style=flat&logo=affinity&logoColor=white)
+  - ![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-2024-0078D4?style=flat&logo=affinity&logoColor=white)
+
 
 - **Ethereum**:
   - ![Hardhat](https://img.shields.io/badge/-Hardhat-00D6D6?logo=hardhat&logoColor=ffffff)
