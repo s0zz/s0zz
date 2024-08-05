@@ -13,7 +13,8 @@ I'm a passionate self taught developer with a diverse tech stack and a vision fo
   - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000000)
   - ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000000)
  
-- **Backend**: 
+- **Backend**:
+  - ![Python](https://img.shields.io/badge/Python-brightgreen)
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff)
   - ![Express.js](https://img.shields.io/badge/-Express.js-404D59?logo=express&logoColor=ffffff)
 
@@ -45,6 +46,7 @@ I'm a passionate self taught developer with a diverse tech stack and a vision fo
 
 - **Command Line**: 
   - ![Command Line](https://img.shields.io/badge/Terminal-4EAA25?logo=gnome-terminal&logoColor=ffffff)
+  - ![Bash](https://img.shields.io/badge/Bash-%E2%9C%94-red)
   - ![Oh My Zsh](https://img.shields.io/badge/Oh%20My%20Zsh-2E7C0E?logo=oh-my-zsh&logoColor=ffffff)
 
 - **IDE/Text Editor**: 
