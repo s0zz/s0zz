@@ -32,7 +32,8 @@ I'm a passionate self taught developer with a diverse tech stack and a vision fo
 
 - **Operating Systems**:
   - ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=ffffff)
-  - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000000)
+  - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+  - ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white)
   - ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali-linux&logoColor=ffffff)
   - ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=ffffff)
 
@@ -90,7 +91,6 @@ I'm a passionate self taught developer with a diverse tech stack and a vision fo
   - ![Affinity Publisher](https://img.shields.io/badge/Affinity_Publisher-2024-0078D4?style=flat&logo=affinity&logoColor=white)
   - ![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-2024-0078D4?style=flat&logo=affinity&logoColor=white)
 
-
 - **Ethereum**:
   - ![Hardhat](https://img.shields.io/badge/-Hardhat-00D6D6?logo=hardhat&logoColor=ffffff)
 
@@ -137,6 +137,39 @@ I'm always exploring new technologies and methodologies to stay apprised in the 
 - Embedded systems and hardware programming
 
 ---
+
+## 🖥️ Setup
+
+### Personal/Work Setup:
+- **MacBook Pro** (Apple Silicon, 16GB RAM)
+  - **OS**: ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=ffffff)
+  - **Usage**: Personal/School PC
+
+- **LG Gram** (Core i7-1360P, 16GB RAM)
+  - **OS**: ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) / ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=microsoft&logoColor=ffffff)
+  - **Usage**: Development PC
+ 
+- **Pi Server**:
+  - **Device**: Raspberry Pi 5 (8GB RAM, 1TB SSD)
+  - **OS**: ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white)
+
+### Cyber Lab:
+- **Defensive Pi #1**:
+  - **Device**: Raspberry Pi 5 (8GB RAM, 256GB MicroSD)
+  - **OS**: ![Ubuntu Desktop](https://img.shields.io/badge/Ubuntu%20Desktop-E95420?logo=ubuntu&logoColor=white)
+
+- **Defensive Pi #2**:
+  - **Device**: Raspberry Pi 5 (8GB RAM, 256GB MicroSD)
+  - **OS**: ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white)
+
+- **Attack Pi #1**:
+  - **Device**: Raspberry Pi 5 (8GB RAM, 256GB MicroSD)
+  - **OS**: ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=ffffff)
+
+### Virtual Lab:
+- **AWS Virtual Machines**:
+  - ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
 
 ## GitHub Stats
 
